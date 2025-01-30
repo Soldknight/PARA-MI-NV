@@ -47,8 +47,8 @@ body {
   font-weight: bold;
   letter-spacing: 5px;
   opacity: 0;
-  animation: fadeIn 3s ease-in-out forwards;
-  text-align: upper;
+  animation: fadeIn 2s ease-in-out forwards;
+  text-align: center;
 }
 @keyframes fadeIn {
   from {
@@ -1696,7 +1696,7 @@ h1 {
 @media screen and (min-width: 1025px) {
   /* Estilos para pantallas grandes */
   h1 {
-      font-size: 2em;
+      font-size: 1em;
   }
 }
 

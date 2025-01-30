@@ -57,7 +57,7 @@ function updateLyrics() {
   }
 }
 
-setInterval(updateLyrics, 1000);
+setInterval(updateLyrics, 1200);
 
 //funcion titulo
 // Función para ocultar el título después de 216 segundos
